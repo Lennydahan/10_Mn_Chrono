@@ -1,0 +1,17 @@
+h1{
+	color: #F0CF65;
+	font-family: 'Spicy Rice', cursive;
+
+}
+a.link-yellow{
+	color:#F0CF65;
+	text-decoration: none;
+}
+
+a.link-orange{
+	color: orange;
+	text-decoration: none;
+}
+body{
+	background-color: #020122;
+}
